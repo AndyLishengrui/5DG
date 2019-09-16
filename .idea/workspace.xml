@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc3e7a9-e454-4b69-aabf-c09bd3f31d0e" name="Default Changelist" comment="精简网站，预备2019-2020第一学期开学作为课程主页">
+    <list default="true" id="9fc3e7a9-e454-4b69-aabf-c09bd3f31d0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs/Jesus001.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs/Jesus001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs/Jesus002.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs/CS001.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+              <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -111,11 +109,6 @@
               <item name="5DG" type="b2602c69:ProjectViewProjectNode" />
               <item name="5DG" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="5DG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="5DG" type="462c0819:PsiDirectoryNode" />
-              <item name="cs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -157,12 +150,20 @@
       <workItem from="1562034323391" duration="646000" />
       <workItem from="1562657952045" duration="678000" />
       <workItem from="1563350807044" duration="11896000" />
-      <workItem from="1568624512012" duration="2624000" />
+      <workItem from="1568624512012" duration="3127000" />
     </task>
+    <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
+      <created>1568627162218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568627162218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15844000" />
+    <option name="totallyTimeSpent" value="16347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -272,7 +273,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
