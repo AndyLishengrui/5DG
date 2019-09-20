@@ -31,13 +31,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs/CS001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="166" column="95" selection-start-line="166" selection-start-column="95" selection-end-line="166" selection-end-column="95" />
+            <state relative-caret-position="337">
+              <caret line="133" column="67" lean-forward="true" selection-start-line="133" selection-start-column="67" selection-end-line="133" selection-end-column="67" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -61,6 +66,12 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -138,7 +149,7 @@
       <workItem from="1562034323391" duration="646000" />
       <workItem from="1562657952045" duration="678000" />
       <workItem from="1563350807044" duration="11896000" />
-      <workItem from="1568624512012" duration="10008000" />
+      <workItem from="1568624512012" duration="10800000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -182,11 +193,25 @@
       <option name="project" value="LOCAL" />
       <updated>1568951814091</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加了该书的略读笔记（增加20%)的理解">
+      <created>1568967815042</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568967815042</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加了国家地理的网站，不可见世界！">
+      <created>1568967877506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568967877506</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23228000" />
+    <option name="totallyTimeSpent" value="24020000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,7 +295,8 @@
     <MESSAGE value="添加两个资源《Unity入门精要》 《C++强大的背后》&#10;并作者的Github主页" />
     <MESSAGE value="添加了《游戏引擎构架》的英文作者和网站的网址" />
     <MESSAGE value="添加了该书的略读笔记（增加20%)的理解" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了该书的略读笔记（增加20%)的理解" />
+    <MESSAGE value="添加了国家地理的网站，不可见世界！" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了国家地理的网站，不可见世界！" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -313,10 +339,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/cs/CS001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="166" column="95" selection-start-line="166" selection-start-column="95" selection-end-line="166" selection-end-column="95" />
+        <state relative-caret-position="337">
+          <caret line="133" column="67" lean-forward="true" selection-start-line="133" selection-start-column="67" selection-end-line="133" selection-end-column="67" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
