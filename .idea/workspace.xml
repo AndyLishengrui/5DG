@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs/CS001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="159" column="82" selection-start-line="159" selection-start-column="82" selection-end-line="159" selection-end-column="82" />
+            <state relative-caret-position="280">
+              <caret line="166" column="95" selection-start-line="166" selection-start-column="95" selection-end-line="166" selection-end-column="95" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -75,9 +75,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="132" />
+    <option name="x" value="194" />
+    <option name="y" value="93" />
     <option name="width" value="1293" />
-    <option name="height" value="767" />
+    <option name="height" value="734" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -137,7 +138,7 @@
       <workItem from="1562034323391" duration="646000" />
       <workItem from="1562657952045" duration="678000" />
       <workItem from="1563350807044" duration="11896000" />
-      <workItem from="1568624512012" duration="8666000" />
+      <workItem from="1568624512012" duration="10008000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -174,11 +175,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568946023776</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加了该书的略读笔记（增加20%)的理解">
+      <created>1568951814091</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568951814091</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21886000" />
+    <option name="totallyTimeSpent" value="23228000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,7 +269,8 @@
     <MESSAGE value="修改个人信息&#10;修改页面的Title" />
     <MESSAGE value="添加两个资源《Unity入门精要》 《C++强大的背后》&#10;并作者的Github主页" />
     <MESSAGE value="添加了《游戏引擎构架》的英文作者和网站的网址" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了《游戏引擎构架》的英文作者和网站的网址" />
+    <MESSAGE value="添加了该书的略读笔记（增加20%)的理解" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了该书的略读笔记（增加20%)的理解" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -306,8 +315,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cs/CS001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="159" column="82" selection-start-line="159" selection-start-column="82" selection-end-line="159" selection-end-column="82" />
+        <state relative-caret-position="280">
+          <caret line="166" column="95" selection-start-line="166" selection-start-column="95" selection-end-line="166" selection-end-column="95" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
