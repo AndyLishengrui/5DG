@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc3e7a9-e454-4b69-aabf-c09bd3f31d0e" name="Default Changelist" comment="">
+    <list default="true" id="9fc3e7a9-e454-4b69-aabf-c09bd3f31d0e" name="Default Changelist" comment="添加两个资源《Unity入门精要》 《C++强大的背后》&#10;并作者的Github主页">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cs/CS001.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs/CS001.html" afterDir="false" />
     </list>
@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs/CS001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="148" column="65" selection-start-line="148" selection-start-column="65" selection-end-line="148" selection-end-column="65" />
+            <state relative-caret-position="470">
+              <caret line="158" column="82" lean-forward="true" selection-start-line="158" selection-start-column="82" selection-end-line="158" selection-end-column="82" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -137,7 +137,7 @@
       <workItem from="1562034323391" duration="646000" />
       <workItem from="1562657952045" duration="678000" />
       <workItem from="1563350807044" duration="11896000" />
-      <workItem from="1568624512012" duration="6059000" />
+      <workItem from="1568624512012" duration="7939000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -160,11 +160,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568686290895</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加两个资源《Unity入门精要》 《C++强大的背后》&#10;并作者的Github主页">
+      <created>1568881247149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568881247149</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19279000" />
+    <option name="totallyTimeSpent" value="21159000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,10 +186,10 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117492095" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117492095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -245,7 +252,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="精简网站，预备2019-2020第一学期开学作为课程主页" />
     <MESSAGE value="修改个人信息&#10;修改页面的Title" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改个人信息&#10;修改页面的Title" />
+    <MESSAGE value="添加两个资源《Unity入门精要》 《C++强大的背后》&#10;并作者的Github主页" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加两个资源《Unity入门精要》 《C++强大的背后》&#10;并作者的Github主页" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -290,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cs/CS001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="148" column="65" selection-start-line="148" selection-start-column="65" selection-end-line="148" selection-end-column="65" />
+        <state relative-caret-position="470">
+          <caret line="158" column="82" lean-forward="true" selection-start-line="158" selection-start-column="82" selection-end-line="158" selection-end-column="82" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
