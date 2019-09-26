@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs/CS001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="133" column="59" lean-forward="true" selection-start-line="133" selection-start-column="59" selection-end-line="133" selection-end-column="59" />
+            <state relative-caret-position="258">
+              <caret line="131" column="83" lean-forward="true" selection-start-line="131" selection-start-column="83" selection-end-line="131" selection-end-column="83" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -110,6 +110,11 @@
       </list>
     </option>
   </component>
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" created="1569469119317" text="09" recursive="false" caseInsensitive="true" type="HTML" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="9月" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -125,7 +130,7 @@
       <workItem from="1563350807044" duration="11896000" />
       <workItem from="1568624512012" duration="10800000" />
       <workItem from="1569211709718" duration="2497000" />
-      <workItem from="1569393456211" duration="2209000" />
+      <workItem from="1569393456211" duration="2635000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -204,11 +209,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569394383589</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="添加了浙大的《数据结构》课程，并且找到相应的PAT代码。">
+      <created>1569469042074</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569469042074</updated>
+    </task>
+    <task id="LOCAL-00013" summary="09更改为9月，统一用中文日期">
+      <created>1569469218768</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569469218768</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28726000" />
+    <option name="totallyTimeSpent" value="29152000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,7 +246,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32866043" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -296,7 +315,9 @@
     <MESSAGE value="如何阅读一本书（在线阅读网址）&#10;未来2个月的OJ实战项目相关源码地址。" />
     <MESSAGE value="去掉天国团（这个名字很奇怪）回归本名5DG" />
     <MESSAGE value="添加更新了7、8、9月的讲章" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加更新了7、8、9月的讲章" />
+    <MESSAGE value="添加了浙大的《数据结构》课程，并且找到相应的PAT代码。" />
+    <MESSAGE value="09更改为9月，统一用中文日期" />
+    <option name="LAST_COMMIT_MESSAGE" value="09更改为9月，统一用中文日期" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -344,8 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cs/CS001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="133" column="59" lean-forward="true" selection-start-line="133" selection-start-column="59" selection-end-line="133" selection-end-column="59" />
+        <state relative-caret-position="258">
+          <caret line="131" column="83" lean-forward="true" selection-start-line="131" selection-start-column="83" selection-end-line="131" selection-end-column="83" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
