@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9fc3e7a9-e454-4b69-aabf-c09bd3f31d0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs/CS001.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs/CS001.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/Jesus001.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs/Jesus001.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,14 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs/CS001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="131" column="83" lean-forward="true" selection-start-line="131" selection-start-column="83" selection-end-line="131" selection-end-column="83" />
+            <state relative-caret-position="277">
+              <caret line="132" column="62" selection-start-line="132" selection-start-column="62" selection-end-line="132" selection-end-column="62" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cs/Jesus001.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="49" column="76" selection-start-line="49" selection-start-column="76" selection-end-line="49" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -35,6 +44,7 @@
       <find>海贼团</find>
       <find>gtalk</find>
       <find>推荐资源</find>
+      <find>09</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -54,8 +64,8 @@
         <option value="$PROJECT_DIR$/cs/cs002.html" />
         <option value="$PROJECT_DIR$/cs/Jesus002.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/cs/Jesus001.html" />
         <option value="$PROJECT_DIR$/cs/CS001.html" />
+        <option value="$PROJECT_DIR$/cs/Jesus001.html" />
       </list>
     </option>
   </component>
@@ -130,7 +140,7 @@
       <workItem from="1563350807044" duration="11896000" />
       <workItem from="1568624512012" duration="10800000" />
       <workItem from="1569211709718" duration="2497000" />
-      <workItem from="1569393456211" duration="2635000" />
+      <workItem from="1569393456211" duration="3418000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -223,11 +233,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569469218768</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="删掉PAT链接">
+      <created>1569469451714</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1569469451714</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29152000" />
+    <option name="totallyTimeSpent" value="29935000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,7 +334,8 @@
     <MESSAGE value="添加更新了7、8、9月的讲章" />
     <MESSAGE value="添加了浙大的《数据结构》课程，并且找到相应的PAT代码。" />
     <MESSAGE value="09更改为9月，统一用中文日期" />
-    <option name="LAST_COMMIT_MESSAGE" value="09更改为9月，统一用中文日期" />
+    <MESSAGE value="删掉PAT链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="删掉PAT链接" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -346,13 +364,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cs/Jesus001.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="77" column="27" lean-forward="true" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -365,11 +376,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cs/CS001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="131" column="83" lean-forward="true" selection-start-line="131" selection-start-column="83" selection-end-line="131" selection-end-column="83" />
+        <state relative-caret-position="277">
+          <caret line="132" column="62" selection-start-line="132" selection-start-column="62" selection-end-line="132" selection-end-column="62" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs/Jesus001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="49" column="76" selection-start-line="49" selection-start-column="76" selection-end-line="49" selection-end-column="76" />
         </state>
       </provider>
     </entry>
