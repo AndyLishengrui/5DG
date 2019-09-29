@@ -4,7 +4,6 @@
     <list default="true" id="9fc3e7a9-e454-4b69-aabf-c09bd3f31d0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cs/CS001.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs/CS001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs/Jesus001.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs/Jesus001.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs/CS001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+            <state relative-caret-position="646">
+              <caret line="133" column="77" selection-start-line="133" selection-start-column="77" selection-end-line="133" selection-end-column="77" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -41,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs/Jesus001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+            <state relative-caret-position="380">
+              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -77,8 +76,8 @@
         <option value="$PROJECT_DIR$/cs/cs002.html" />
         <option value="$PROJECT_DIR$/cs/Jesus002.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/cs/CS001.html" />
         <option value="$PROJECT_DIR$/cs/Jesus001.html" />
+        <option value="$PROJECT_DIR$/cs/CS001.html" />
       </list>
     </option>
   </component>
@@ -153,7 +152,7 @@
       <workItem from="1563350807044" duration="11896000" />
       <workItem from="1568624512012" duration="10800000" />
       <workItem from="1569211709718" duration="2497000" />
-      <workItem from="1569393456211" duration="5312000" />
+      <workItem from="1569393456211" duration="7423000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -274,11 +273,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569740331911</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="随笔">
+      <created>1569741901447</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569741901447</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31829000" />
+    <option name="totallyTimeSpent" value="33940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,7 +377,8 @@
     <MESSAGE value="删掉PAT链接" />
     <MESSAGE value="添加9月28日的讲章和ppt——不要叫神的圣灵担忧&#10;新约《以弗所书》第4章30节" />
     <MESSAGE value="修改logo的配文" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改logo的配文" />
+    <MESSAGE value="随笔" />
+    <option name="LAST_COMMIT_MESSAGE" value="随笔" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -410,20 +417,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cs/CS001.html">
+    <entry file="file://$PROJECT_DIR$/cs/Jesus001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cs/Jesus001.html">
+    <entry file="file://$PROJECT_DIR$/cs/CS001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        <state relative-caret-position="646">
+          <caret line="133" column="77" selection-start-line="133" selection-start-column="77" selection-end-line="133" selection-end-column="77" />
+          <folding>
+            <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
