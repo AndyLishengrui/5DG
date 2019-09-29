@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs/CS001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="133" column="77" selection-start-line="133" selection-start-column="77" selection-end-line="133" selection-end-column="77" />
+            <state relative-caret-position="551">
+              <caret line="134" column="18" lean-forward="true" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -152,7 +152,7 @@
       <workItem from="1563350807044" duration="11896000" />
       <workItem from="1568624512012" duration="10800000" />
       <workItem from="1569211709718" duration="2497000" />
-      <workItem from="1569393456211" duration="7423000" />
+      <workItem from="1569393456211" duration="8121000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -280,11 +280,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569741901447</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="增加&lt;郭炜&gt;老师的算法课，可以配合ACM的课程学习">
+      <created>1569745893237</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569745893237</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33940000" />
+    <option name="totallyTimeSpent" value="34638000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,7 +385,8 @@
     <MESSAGE value="添加9月28日的讲章和ppt——不要叫神的圣灵担忧&#10;新约《以弗所书》第4章30节" />
     <MESSAGE value="修改logo的配文" />
     <MESSAGE value="随笔" />
-    <option name="LAST_COMMIT_MESSAGE" value="随笔" />
+    <MESSAGE value="增加&lt;郭炜&gt;老师的算法课，可以配合ACM的课程学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加&lt;郭炜&gt;老师的算法课，可以配合ACM的课程学习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -426,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cs/CS001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="133" column="77" selection-start-line="133" selection-start-column="77" selection-end-line="133" selection-end-column="77" />
+        <state relative-caret-position="551">
+          <caret line="134" column="18" lean-forward="true" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
