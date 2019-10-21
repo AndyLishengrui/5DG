@@ -43,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs/Jesus001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="58" column="68" selection-start-line="58" selection-start-column="68" selection-end-line="58" selection-end-column="68" />
+            <state relative-caret-position="475">
+              <caret line="49" column="68" selection-start-line="49" selection-start-column="68" selection-end-line="49" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -154,7 +154,7 @@
       <workItem from="1569211709718" duration="2497000" />
       <workItem from="1569393456211" duration="10786000" />
       <workItem from="1570502237060" duration="970000" />
-      <workItem from="1571619257163" duration="1628000" />
+      <workItem from="1571619257163" duration="1833000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -310,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571619580793</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="基督耶稣的教会是有关系的一群人，首先是与神的关系，其次是彼此的关系。">
+      <created>1571642188818</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1571642188818</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39901000" />
+    <option name="totallyTimeSpent" value="40106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,7 +419,8 @@
     <MESSAGE value="增加&lt;郭炜&gt;老师的公司网址，可以考虑购买他写的软件" />
     <MESSAGE value="增加Robert Sedgewick教授的个人主页" />
     <MESSAGE value="增加VS2019入门的ppt" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加VS2019入门的ppt" />
+    <MESSAGE value="基督耶稣的教会是有关系的一群人，首先是与神的关系，其次是彼此的关系。" />
+    <option name="LAST_COMMIT_MESSAGE" value="基督耶稣的教会是有关系的一群人，首先是与神的关系，其次是彼此的关系。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -463,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cs/Jesus001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="58" column="68" selection-start-line="58" selection-start-column="68" selection-end-line="58" selection-end-column="68" />
+        <state relative-caret-position="475">
+          <caret line="49" column="68" selection-start-line="49" selection-start-column="68" selection-end-line="49" selection-end-column="68" />
         </state>
       </provider>
     </entry>
