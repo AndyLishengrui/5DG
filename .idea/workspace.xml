@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9fc3e7a9-e454-4b69-aabf-c09bd3f31d0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs/CS001.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs/CS001.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/cs/CS001.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="132" column="131" selection-start-line="132" selection-start-column="131" selection-end-line="132" selection-end-column="131" />
+              <caret line="132" column="30" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -150,7 +149,7 @@
       <workItem from="1571902310987" duration="255000" />
       <workItem from="1571985185121" duration="956000" />
       <workItem from="1578454290996" duration="1025000" />
-      <workItem from="1581312026775" duration="228000" />
+      <workItem from="1581312026775" duration="1534000" />
     </task>
     <task id="LOCAL-00001" summary="精简网站，预备2019-2020第一学期开学作为课程主页">
       <created>1568627162218</created>
@@ -348,11 +347,18 @@
       <option name="project" value="LOCAL" />
       <updated>1578454599209</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="发现《数字化学习研究中心》领域的资源">
+      <created>1581312321963</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1581312321963</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43536000" />
+    <option name="totallyTimeSpent" value="44842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,7 +371,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1709062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -464,7 +469,8 @@
     <MESSAGE value="删除了敏感链接" />
     <MESSAGE value="喜迎新季节" />
     <MESSAGE value="2020年不再一样" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年不再一样" />
+    <MESSAGE value="发现《数字化学习研究中心》领域的资源" />
+    <option name="LAST_COMMIT_MESSAGE" value="发现《数字化学习研究中心》领域的资源" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Apollo-11/Luminary099/AGC_BLOCK_TWO_SELF_CHECK.agc">
@@ -513,7 +519,7 @@
     <entry file="file://$PROJECT_DIR$/cs/CS001.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="132" column="131" selection-start-line="132" selection-start-column="131" selection-end-line="132" selection-end-column="131" />
+          <caret line="132" column="30" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
